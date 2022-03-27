@@ -1,5 +1,5 @@
 # CG with OpenGL
-My Computer Graphics course assignments with OpenGL and GLUT.
+My Computer Graphics course's assignments with OpenGL and GLUT.
 
 - IDE: Visual Studio
 
